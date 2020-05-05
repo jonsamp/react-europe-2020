@@ -1,0 +1,17 @@
+{
+  "name": "bare",
+  "displayName": "bare",
+  "expo": {
+    "name": "bare",
+    "slug": "bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
