@@ -1,8 +1,4 @@
-# React Native Up and Going
-
-To get started, view the slides in this directory.
-
-## Presentation notes
+# Notes
 
 There are a variety of ways to start a React Native project. Below is a comparison of Expo's Managed workflow, Bare workflow, and a non-Expo vanilla React Native workflow. Learn more [here](https://docs.expo.io/introduction/managed-vs-bare/).
 

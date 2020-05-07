@@ -7,3 +7,5 @@ Order of sections:
 - **1-up-and-going**: Learn about React Native and options to start your first project.
 - **2-get-started**: Get coding on your first project.
 - **3-testing**: Learn testing strategies.
+- **4-web**: Use React Native for the web.
+- **5-production**: Get your app on your user's devices.
